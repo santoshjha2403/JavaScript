@@ -1,7 +1,7 @@
 const accountId = 122344;
 let accountEmail = 'san@123';
 var accountPass = '12345';
-accountCity = 'bihar'
+accountCity = 'bihar. india'
 
 console.table([accountId,accountEmail,accountPass,accountCity]);
  //prefere not to use var because of block scope issue
